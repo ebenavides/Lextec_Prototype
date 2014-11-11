@@ -142,7 +142,7 @@ body a{
  }
 /*--banner--*/
 .banner {
-	background: url(../images/banner.jpg) no-repeat 0px 0px;
+	background: url(../_pimages/banner.jpg) no-repeat 0px 0px;
 	min-height: 580px;
 	background-size: 100% 100%;
 }
@@ -177,7 +177,7 @@ a.banner-btn span {
 	width: 80px;
 	height: 80px;
 	display: inline-block;
-	background: url(../images/banner_scroll.png) no-repeat 0px 0px;
+	background: url(../_pimages/banner_scroll.png) no-repeat 0px 0px;
 }
 a.banner-btn span:hover {
 	opacity: 0.9;
@@ -203,25 +203,25 @@ a.banner-btn span:hover {
 i.icon1{
 	width: 80px;
 	height: 70px;
-	background: url(../images/img-sprite.png) no-repeat -3px -2px;
+	background: url(../_pimages/img-sprite.png) no-repeat -3px -2px;
 	display: inline-block;
 }
 i.icon2{
 	width: 80px;
 	height: 70px;
-	background: url(../images/img-sprite.png) no-repeat -83px -2px;
+	background: url(../_pimages/img-sprite.png) no-repeat -83px -2px;
 	display: inline-block;
 }
 i.icon3{
 	width: 80px;
 	height: 70px;
-	background: url(../images/img-sprite.png) no-repeat -176px -7px;
+	background: url(../_pimages/img-sprite.png) no-repeat -176px -7px;
 	display: inline-block;
 }
 i.icon4{
 	width: 80px;
 	height: 70px;
-	background: url(../images/img-sprite.png) no-repeat -5px -86px;
+	background: url(../_pimages/img-sprite.png) no-repeat -5px -86px;
 	display: inline-block;
 }
 .feature_grid1 {
@@ -322,11 +322,11 @@ p.m_2{
 }
 .nbs-flexisel-nav-left {
 	left:32.5em;
-	background: url(../images/img-sprite.png) no-repeat -99px -101px;
+	background: url(../_pimages/img-sprite.png) no-repeat -99px -101px;
 }
 .nbs-flexisel-nav-right {
 	right:35em;
-	background: url(../images/img-sprite.png) no-repeat -133px -102px;
+	background: url(../_pimages/img-sprite.png) no-repeat -133px -102px;
 }
 .m_3 {
 	text-align: center;
@@ -460,7 +460,7 @@ ul.message li.msg-desc{
 i.msg_icon{
 	width: 50px;
 	height: 40px;
-	background: url(../images/img-sprite.png) no-repeat -176px -97px;
+	background: url(../_pimages/img-sprite.png) no-repeat -176px -97px;
 	display: inline-block;
 }
 ul.message li.msg-desc h4 a{
@@ -530,7 +530,7 @@ ul.twitter li.twt_icon{
 i.twt{
 	width: 60px;
 	height: 55px;
-	background: url(../images/img-sprite.png) no-repeat -236px -91px;
+	background: url(../_pimages/img-sprite.png) no-repeat -236px -91px;
 	display: inline-block;
 	margin-top: 8px;
 }
@@ -574,7 +574,7 @@ ul.social_left li.fb_text{
 i.fb{
 	width: 70px;
 	height: 70px;
-	background: url(../images/img-sprite.png) no-repeat 3px -156px #e4551d;
+	background: url(../_pimages/img-sprite.png) no-repeat 3px -156px #e4551d;
 	display: inline-block;
 	border-radius: 100%;
 	-webkit-border-radius: 100%;
@@ -584,7 +584,7 @@ i.fb{
 i.google{
 	width: 70px;
 	height: 70px;
-	background: url(../images/img-sprite.png) no-repeat -54px -158px #e4551d;
+	background: url(../_pimages/img-sprite.png) no-repeat -54px -158px #e4551d;
 	display: inline-block;
 	border-radius: 100%;
 	-webkit-border-radius: 100%;
@@ -594,7 +594,7 @@ i.google{
 i.linked{
 	width: 70px;
 	height: 70px;
-	background: url(../images/img-sprite.png) no-repeat -104px -162px #e4551d;
+	background: url(../_pimages/img-sprite.png) no-repeat -104px -162px #e4551d;
 	display: inline-block;
 	border-radius: 100%;
 	-webkit-border-radius: 100%;
@@ -690,7 +690,7 @@ ul.about_grid1 li.about_desc p{
 	margin-bottom:2em;
 }
 a.about_btn{
-	background: url(../images/arrow.png) no-repeat 100% 1px;
+	background: url(../_pimages/arrow.png) no-repeat 100% 1px;
 	display: inline-block;
 	position: relative;
 	margin: 0;
@@ -708,7 +708,7 @@ a.about_btn{
 	border-left:1px solid #555;
 }
 a.about_btn:hover{
-	background: url(../images/arrow_hover.png) no-repeat 100% 1px;
+	background: url(../_pimages/arrow_hover.png) no-repeat 100% 1px;
 }
 .about_box{
 	margin-bottom:2em;
@@ -944,56 +944,56 @@ ul.links li, ul.links_middle li, ul.links_bottom li{
 i.blog_icon1 {
 	width: 25px;
 	height: 25px;
-	background: url(../images/img-sprite.png)-179px -185px;
+	background: url(../_pimages/img-sprite.png)-179px -185px;
 	float: left;
 	margin-right:5px;
 }
 i.blog_icon2{
 	width: 25px;
 	height: 25px;
-	background: url(../images/img-sprite.png)-217px -185px;
+	background: url(../_pimages/img-sprite.png)-217px -185px;
 	float: left;
 	margin-right:5px;
 }
 i.permalink{
 	width: 25px;
 	height: 25px;
-	background: url(../images/img-sprite.png)-43px -227px;
+	background: url(../_pimages/img-sprite.png)-43px -227px;
 	float: left;
 	margin-right:5px;
 }
 i.blog_icon3{
 	width: 25px;
 	height: 25px;
-	background: url(../images/img-sprite.png)-5px -226px;
+	background: url(../_pimages/img-sprite.png)-5px -226px;
 	float: left;
 	margin-right:5px;
 }
 i.blog_icon4{
 	width: 25px;
 	height: 25px;
-	background: url(../images/img-sprite.png)-83px -227px;
+	background: url(../_pimages/img-sprite.png)-83px -227px;
 	float: left;
 	margin-right:5px;
 }
 i.blog_icon5{
 	width: 25px;
 	height: 25px;
-	background: url(../images/img-sprite.png)-260px -186px;
+	background: url(../_pimages/img-sprite.png)-260px -186px;
 	float: left;
 	margin-right:5px;
 }
 i.blog_icon6{
 	width: 25px;
 	height: 25px;
-	background: url(../images/img-sprite.png)-156px -229px;
+	background: url(../_pimages/img-sprite.png)-156px -229px;
 	float: left;
 	margin-right:5px;
 }
 i.blog_icon7{
 	width: 25px;
 	height: 25px;
-	background: url(../images/img-sprite.png)-121px -229px;
+	background: url(../_pimages/img-sprite.png)-121px -229px;
 	float: left;
 	margin-right:5px;
 }
@@ -1071,7 +1071,7 @@ ul.sidebar h3 {
 	margin-bottom:1em;
 }
 ul.sidebar li {
-	list-style-image: url(../images/dot.png);
+	list-style-image: url(../_pimages/dot.png);
 	margin: 0 15px 10px;
 	vertical-align: bottom;
 }
@@ -1229,7 +1229,7 @@ h2.item_title{
 i.address{
 	width: 25px;
 	height: 25px;
-	background: url(../images/img-sprite.png)-195px -229px;
+	background: url(../_pimages/img-sprite.png)-195px -229px;
 	float: left;
 	margin-right: 5px;
 }
@@ -1248,14 +1248,14 @@ i.address{
 i.phone{
 	width: 25px;
 	height: 25px;
-	background: url(../images/img-sprite.png)-228px -229px;
+	background: url(../_pimages/img-sprite.png)-228px -229px;
 	float: left;
 	margin-right: 5px;
 }
 i.mail{
 	width: 25px;
 	height: 25px;
-	background: url(../images/img-sprite.png)-262px -230px;
+	background: url(../_pimages/img-sprite.png)-262px -230px;
 	float: left;
 	margin-right: 5px;
 }
